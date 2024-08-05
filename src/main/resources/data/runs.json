@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "First Run",
+    "kilometers": 5,
+    "location": "INDOOR",
+    "timeStarted": "2024-08-03T21:01:42.7055885",
+    "timeEnded": "2024-08-03T22:01:42.7055885"
+  },
+  {
+    "id": 2,
+    "title": "Second Run",
+    "kilometers": 6,
+    "location": "OUTDOOR",
+    "timeStarted": "2024-08-04T07:15:30.7055885",
+    "timeEnded": "2024-08-04T08:00:30.7055885"
+  },
+  {
+    "id": 3,
+    "title": "Third Run",
+    "kilometers": 4,
+    "location": "INDOOR",
+    "timeStarted": "2024-08-05T19:20:10.7055885",
+    "timeEnded": "2024-08-05T20:05:10.7055885"
+  },
+  {
+    "id": 4,
+    "title": "Fourth Run",
+    "kilometers": 7,
+    "location": "OUTDOOR",
+    "timeStarted": "2024-08-06T06:45:42.7055885",
+    "timeEnded": "2024-08-06T07:45:42.7055885"
+  },
+  {
+    "id": 5,
+    "title": "Fifth Run",
+    "kilometers": 5,
+    "location": "INDOOR",
+    "timeStarted": "2024-08-07T18:01:42.7055885",
+    "timeEnded": "2024-08-07T19:01:42.7055885"
+  },
+  {
+    "id": 6,
+    "title": "Sixth Run",
+    "kilometers": 8,
+    "location": "OUTDOOR",
+    "timeStarted": "2024-08-08T05:30:42.7055885",
+    "timeEnded": "2024-08-08T06:30:42.7055885"
+  },
+  {
+    "id": 7,
+    "title": "Seventh Run",
+    "kilometers": 6,
+    "location": "INDOOR",
+    "timeStarted": "2024-08-09T20:01:42.7055885",
+    "timeEnded": "2024-08-09T21:01:42.7055885"
+  },
+  {
+    "id": 8,
+    "title": "Eighth Run",
+    "kilometers": 7,
+    "location": "OUTDOOR",
+    "timeStarted": "2024-08-10T06:01:42.7055885",
+    "timeEnded": "2024-08-10T07:01:42.7055885"
+  },
+  {
+    "id": 9,
+    "title": "Ninth Run",
+    "kilometers": 5,
+    "location": "INDOOR",
+    "timeStarted": "2024-08-11T17:01:42.7055885",
+    "timeEnded": "2024-08-11T18:01:42.7055885"
+  },
+  {
+    "id": 10,
+    "title": "Tenth Run",
+    "kilometers": 10,
+    "location": "OUTDOOR",
+    "timeStarted": "2024-08-12T05:01:42.7055885",
+    "timeEnded": "2024-08-12T06:30:42.7055885"
+  }
+]
